@@ -43,7 +43,7 @@ by_major_category <- majors_processed %>%
   arrange(desc(ShareWomen))
 ```
 
-I am very excited to share a cool learning opportunity that I came across last week. [David Robinson conducted a great screencast walking through a live data analysis in R.](http://varianceexplained.org/r/tidy-tuesday-college-major/) It was a terrific watching an expert share their approach of quickly analyzing a dataset. I followed along David's exploratory data analysis and plotting (admittedly by pausing, rewinding and catching up several times).
+I am very excited to share a cool learning opportunity that I came across last week. [David Robinson conducted a great screencast walking through a live data analysis in R.](http://varianceexplained.org/r/tidy-tuesday-college-major/) It was a terrific experience watching an expert share their approach of quickly analyzing a dataset. I followed along David's exploratory data analysis and plotting (admittedly by pausing, rewinding and catching up several times).
 
 Following his model, I wanted the data to answer a question of my own, *does pursing a higher salary major risk in higher chances of unemployment?* Let's take a look:
 
